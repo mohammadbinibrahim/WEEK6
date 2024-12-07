@@ -1,0 +1,49 @@
+body {
+	font-family: "El Messiri", sans-serif;
+  	font-optical-sizing: auto;
+ 	font-weight: 400;
+ 	font-style: normal;
+}
+.main {
+	width: 40%; 
+	margin: 0 auto; 
+	box-shadow: 1px 1px 10px silver;
+	margin-top: 45px;
+	padding: 10px;
+	font-size: 40px;
+}
+input {
+	margin-bottom: 10px;
+	width: 60%;
+	padding: 5px;
+	font-size: 25px;
+	font-weight: normal;
+}
+button {
+	border: none;
+	padding: 10px;
+	width: 10%;
+	height: 43px;
+	font-weight: bolder;
+	font-size: 15px;
+	background-color: #1AC15C;
+	cursor: pointer;
+	font-family: "El Messiri", sans-serif;
+	margin-bottom: 15px;
+}
+label {
+	padding: 10px;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 15px;
+	background-color: #1F87CF;
+	font-family: "El Messiri", sans-serif;
+	color: white;
+}
+a {
+	text-decoration: none;
+	font-size: 20px;
+	color: tomato;
+	font-family: "El Messiri", sans-serif;
+	font-weight: bolder;
+}
